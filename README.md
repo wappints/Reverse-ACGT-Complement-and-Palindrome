@@ -1,5 +1,6 @@
 # Palindrome and Complement Validation of the Reversed DNA String (SASM)
 
+Third Term Project | Sophomore Year
 
 Note: Run this through command prompt. 
 
